@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         toolbarHeight: _deviceHeight * 0.15,
         title: const Text(
-          "Taskly..!",
+          "Task App!",
           style: TextStyle(
               fontSize: 25, color: Colors.white, fontWeight: FontWeight.bold),
         ),
